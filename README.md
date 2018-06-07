@@ -15,4 +15,4 @@ this file contains my assignments
 
 [Exam june 7, 2018](https://github.com/bushbush40/assignments/blob/master/exam_june_7_2018.ipynb)
 
-[final exam R]()
+[final exam R](https://github.com/bushbush40/assignments/blob/master/Exam_student.ipynb)
