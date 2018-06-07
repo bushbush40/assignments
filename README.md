@@ -13,6 +13,6 @@ this file contains my assignments
 
 [assignment week 7]
 
-[Exam june 7, 2018]()
+[Exam june 7, 2018](https://github.com/bushbush40/assignments/blob/master/exam_june_7_2018.ipynb)
 
 [final exam R]()
