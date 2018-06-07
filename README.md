@@ -7,11 +7,11 @@ this file contains my assignments
 
 [assignment week 4](https://github.com/bushbush40/assignments/blob/master/assignment4.ipynb)
 
-[assignment week 5]
+[assignment week 5] ()
+ 
+[assignment week 6] ()
 
-[assignment week 6]
-
-[assignment week 7]
+[assignment week 7] ()
 
 [Exam june 7, 2018](https://github.com/bushbush40/assignments/blob/master/exam_june_7_2018.ipynb)
 
