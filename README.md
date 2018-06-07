@@ -13,6 +13,6 @@ this file contains my assignments
 
 [assignment week 7]
 
-[final exam python]()
+[Exam june 7, 2018]()
 
 [final exam R]()
